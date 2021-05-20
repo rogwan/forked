@@ -75,4 +75,4 @@
  :feature/enable-timetracking? true
  :feature/enable-journals? true
  :ui/show-brackets? false
- :feature/enable-encryption? true}
+ :feature/enable-encryption? false}
