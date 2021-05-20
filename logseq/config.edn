@@ -74,5 +74,5 @@
  :macros {}
  :feature/enable-timetracking? true
  :feature/enable-journals? true
- :ui/show-brackets? false
+ :ui/show-brackets? true
  :feature/enable-encryption? false}
